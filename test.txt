@@ -1,0 +1,44 @@
+Last login: Sun Jan 22 11:28:23 on ttys000
+akimotoyuuichi@yuichiMacBook-Air ~ % $cd Downloads
+zsh: command not found: Downloads
+akimotoyuuichi@yuichiMacBook-Air ~ % cd
+akimotoyuuichi@yuichiMacBook-Air ~ % cd Downloads
+akimotoyuuichi@yuichiMacBook-Air Downloads % cd demo_test
+akimotoyuuichi@yuichiMacBook-Air demo_test % ls 
+README.md
+akimotoyuuichi@yuichiMacBook-Air demo_test % cat README.md
+# demo_test%                                                                    akimotoyuuichi@yuichiMacBook-Air demo_test % open README.md
+No application knows how to open URL file:///Users/akimotoyuuichi/Downloads/demo_test/README.md (Error Domain=NSOSStatusErrorDomain Code=-10814 "kLSApplicationNotFoundErr: E.g. no application claims the file" UserInfo={_LSLine=1538, _LSFunction=runEvaluator}).
+akimotoyuuichi@yuichiMacBook-Air demo_test % git add test.txt
+fatal: pathspec 'test.txt' did not match any files
+akimotoyuuichi@yuichiMacBook-Air demo_test % vi test.txt
+
+
+
+
+
+
+
+~                                                                               
+~                                                                               
+~                                                                               
+~                                                                               
+~                                                                               
+~                                                                               
+~                                                                               
+~                                                                               
+~                                                                               
+~                                                                               
+~                                                                               
+~                                                                               
+~                                                                               
+~                                                                               
+~                                                                               
+~                                                                               
+~                                                                               
+~                                                                               
+~                                                                               
+~                                                                               
+~                                                                               
+~                                                                               
+"test.txt" [New]
